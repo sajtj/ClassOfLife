@@ -1,3 +1,0 @@
-# midtermproject
-salam
-khobi? haha
