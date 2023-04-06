@@ -749,7 +749,7 @@ int main()
     Genome G1("ATCAGTAGT", "CTCAGT", "GAGTCA");
     Genome G2("ATGC", "TTATCG", "AATAGC");
     // G1.smalljahesh('A', 'C', 2);
-    // G1.printdan2();
+    // G1.printdna2();
     // G1.bigjahesh("TCAG", "ATC" );
     // G1.revers("GTCA");
     Cell c1(1);
