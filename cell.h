@@ -31,7 +31,7 @@ public:
             dna2.push_back(DNA[1][i]);
         }
     }
-    void printdan2()
+    void printdna2()
     {
         for (int i = 0; i < rna.size(); i++)
         {
