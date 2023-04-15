@@ -26,9 +26,7 @@ public:
 class Cell : public Genome
 {
 public:
-    Cell()
-    {
-    }
+    Cell(){}
     vector<Genome> cromozoms;
     Cell(int n);
     void cell(int n);
