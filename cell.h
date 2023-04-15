@@ -11,9 +11,7 @@ using namespace std;
 class Genome
 {
 public:
-    Genome()
-    {
-    }
+    Genome(){}
     string RNA;
     string DNA[2];
     vector<char> rna;
